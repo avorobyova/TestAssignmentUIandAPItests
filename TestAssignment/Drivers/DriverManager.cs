@@ -1,6 +1,7 @@
 ﻿using OpenQA.Selenium;
 using Reqnroll.BoDi;
 using NUnit.Framework;
+using Reqnroll;
 
 namespace TestAssignment.Drivers
 {
